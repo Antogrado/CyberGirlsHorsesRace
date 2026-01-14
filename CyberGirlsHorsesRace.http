@@ -1,0 +1,6 @@
+@CyberGirlsHorsesRace_HostAddress = http://localhost:5228
+
+GET {{CyberGirlsHorsesRace_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
